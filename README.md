@@ -3,9 +3,11 @@
 
 ### ⚡️ A Few Quick Facts
 
+<img align="right" src="https://readme-stats-dmego.vercel.app/api?username=dmego&show_icons=true&icon_color=1573B3&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true"/>
+
 <ul>
     <li> 🌱 I’m currently learning Go、Docker、Kubernetes.</li>
-    <li> 👯 I’m looking to collaborate on anything free and open source.</li>
+    <li> 👯 I’m looking to collaborate on anything open source.</li>
     <li> 📝 I regulary write articles on <a href="https://dmego.cn">https://dmego.cn</a>.</li>
     <li> ⚡ Fun fact: I ❤️ 😻.</li>
 </ul>
@@ -14,60 +16,48 @@
 
 <img src="https://komarev.com/ghpvc/?username=dmego" alt="dmego" />
 
-<img align="right" src="https://readme-stats-dmego.vercel.app/api?username=dmego&show_icons=true&icon_color=1573B3&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true"/>
-
-[![wakatime](https://wakatime.com/badge/user/d60a93cb-3bd3-4d85-a9a8-8f81e41616d8.svg)](https://wakatime.com/@d60a93cb-3bd3-4d85-a9a8-8f81e41616d8)
-
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-252783%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C217%20hrs%208%20mins-blue)
 
-**🐱 My Github Data** 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-678.6%20thousand%20lines%20of%20code-blue)
 
-> 🏆 51 Contributions in the Year 2022
- > 
-> 📦 228.2 kB Used in Github's Storage 
+**🐱 My GitHub Data** 
+
+> 📦 230.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 26 Public Repositories 
+> 📜 27 Public Repositories 
  > 
-> 🔑 12 Private Repositories  
+> 🔑 14 Private Repositories 
  > 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning    44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.67% 
-🌆 Daytime    55 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.33% 
-🌃 Evening    76 commits     ██████░░░░░░░░░░░░░░░░░░░   25.33% 
-🌙 Night      125 commits    ██████████░░░░░░░░░░░░░░░   41.67%
-
+🌞 Morning                177 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+🌆 Daytime                1150 commits        █████████████░░░░░░░░░░░░   51.66 % 
+🌃 Evening                246 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+🌙 Night                  653 commits         ███████░░░░░░░░░░░░░░░░░░   29.34 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Shanghai
+🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    11 hrs 24 mins      ████████████████████░░░░░   82.52% 
-Java                     2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.47% 
-JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.67% 
-XML                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63% 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
+Java                     8 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Browser                  11 hrs 22 mins      ████████████████████░░░░░   82.33% 
-IntelliJ                 1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.34% 
-VS Code                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.28% 
-Sublime Text             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+IntelliJ IDEA            8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      13 hrs 49 mins      █████████████████████████   100.0%
-
+Mac                      8 mins              █████████████████████████   100.00 % 
 ```
 
 
+ Last Updated on 19/01/2025 08:24:15 UTC
 <!--END_SECTION:waka-->
 
 ---
